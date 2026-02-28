@@ -1,3 +1,4 @@
+/* eslint-disable no-empty, @typescript-eslint/no-non-null-assertion */
 /* eslint-disable no-console, @typescript-eslint/no-explicit-any */
 'use client';
 
